@@ -1,4 +1,4 @@
-baseurl = "/about/"  
+baseurl = "/"  
 title = "Academic"
 copyright = "&copy; 2017 Alfred Pozarickij"
 theme = "hugo-academic"
