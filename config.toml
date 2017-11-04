@@ -1,5 +1,5 @@
 baseurl = "/"  
-title = "Academic"
+title = "Welcome"
 copyright = "&copy; 2017 Alfred Pozarickij"
 theme = "hugo-academic"
 enableEmoji = true
