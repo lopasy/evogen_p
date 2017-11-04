@@ -21,7 +21,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Quantitative Genetics"
   institution = "Cardiff University"
-  year = 2016-
+  year = 2016
 
 [[education.courses]]
   course = "MSc in Evolutionary Genetics"
@@ -37,5 +37,5 @@ weight = 5
 
 # Biography
 
-Alfred Pozarickij is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+During my Master’s degree, I became interested in population genetics so much that in my spare time I end up reading theoretical population genetics papers. While working on my PhD, to keep track of things I do know and don’t know about genetics, I am developing a website/book . My knowledge and interests are not limited to one field but rather extend to other fields of mathematical/computational biology. I did not have a very strong training in mathematics or statistics at the very young age, which is why much of my time is dedicated to understanding fundamental concepts in these fields.
 
