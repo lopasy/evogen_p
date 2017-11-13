@@ -4,7 +4,7 @@ copyright = "&copy; 2017 Alfred Pozarickij"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 paginate = 10
 
@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Cardiff University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "C:/Users/lopasy/Desktop/DCIM/101NIKON/DSCN0505.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "water.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "PozarickijA@cardiff.ac.uk"
   address = "Maindy Road, Cathays, Cardiff, CF24 4HQ, UK"
 
