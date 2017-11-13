@@ -3,10 +3,10 @@ date = 2017-11-13
 lastmod = 2017-11-13
 draft = false
 tags = ["academic", "hugo"]
-title = "Test run"
+title = "Gene-environment and gene-gene interactions in myopia"
 math = true
 summary = """
-Create a beautifully simple personal or academic website in under 10 minutes. 
+This the initial description of related details
 """
 
 [header]
