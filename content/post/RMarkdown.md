@@ -14,3 +14,5 @@ Create a beautifully simple personal or academic website in under 10 minutes.
 caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 
 +++
+
+This is just something to consider
