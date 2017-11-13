@@ -189,6 +189,22 @@
     
     <url>
     
+      <loc>/post/rmarkdown/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/testing_rmarkdown/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/hugo/</loc>
       <lastmod>2017-09-03T00:00:00+01:00</lastmod>
       <priority>0</priority>
